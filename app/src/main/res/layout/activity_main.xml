@@ -21,6 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:title="@string/app_name"
+            android:background="@color/black"
             app:titleTextColor="@color/white">
 
         </androidx.appcompat.widget.Toolbar>
