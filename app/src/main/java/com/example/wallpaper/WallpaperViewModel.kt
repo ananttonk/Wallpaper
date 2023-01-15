@@ -1,10 +1,6 @@
 package com.example.wallpaper
 
-import android.app.Application
-import android.content.Context
 import android.util.Log
-import android.widget.Toast
-import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import retrofit2.Call
